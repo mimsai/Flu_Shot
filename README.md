@@ -35,7 +35,7 @@ No caso de dados ausentes podem ser aplicados alguns métodos: excluir ou preenc
 O Mapa Mental pode ser utilizado como um “guia” para observar quais são as variáveis mais importantes para a Análise Exploratória dos Dados e quais serão mais relevantes para a criação das hipóteses sobre o desenvolvimento e insights que serão apresentados. Dado que o projeto tem a finalidade de predição de vendas, devemos selecionar as variáveis que serão agentes para tal objetivo e quais atributos destes são mais importantes para a validação das hipóteses.
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/Mind_Map_Hypothesis.png" />
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/Flu_Shot_Map_Mind.png" />
 </h1>
 
 No centro do mapa mental podemos observar o objeto de análise “Flu Shot”, seguido pelo primeiro patamar das ramificações apresentando as variáveis agentes que impactam diretamento no 'target' vacinado ou não vacinado e logo após, os atributos que caracterizam tais agentes. Essa análise é importante para que quando for realizada a lista sobre hipóteses que serão apresentadas pelo nosso projeto, as variáveis necessárias para validar tal sugestão estejam disponíveis.
