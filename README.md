@@ -1,7 +1,7 @@
 <h1 align="center">Projeto para Análise de Adesão à Vacina H1N1 e Vacinal Sazonal de Gripe no ano de 2012</h1>
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/Sales Prediction.png" />
+  <img src="/img/Flu_Shot.png" />
 </h1>
 
 <p align="center">O objetivo principal deste projeto é analisar os dados sobre a incidência de vacinação contra o H1N1 e a gripe sazonal em um grupo de indivíduos que residiam há 6 meses ou mais nos Estados Unidos no ano de 2009, buscando entender quais grupos tendem ou não a recusar a oportunidade de vacinação e quais fatores levam tais indivíduos a essa escolha. Dessa forma, é possível estudar sobre quais grupos podem receber uma maior conscientização para ocorrer engajamento da vacinação em situações de crise sanitárias.</p>
